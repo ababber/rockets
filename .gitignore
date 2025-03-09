@@ -1,6 +1,7 @@
 # project specific
 Constants.py
 snowflake_destination.json
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
